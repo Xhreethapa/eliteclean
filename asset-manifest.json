@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/https//xhreethapa.github.io/eliteclean/static/css/main.a8186717.chunk.css",
+    "main.js": "/https//xhreethapa.github.io/eliteclean/static/js/main.ba76f7de.chunk.js",
+    "main.js.map": "/https//xhreethapa.github.io/eliteclean/static/js/main.ba76f7de.chunk.js.map",
+    "runtime-main.js": "/https//xhreethapa.github.io/eliteclean/static/js/runtime-main.2c71abcd.js",
+    "runtime-main.js.map": "/https//xhreethapa.github.io/eliteclean/static/js/runtime-main.2c71abcd.js.map",
+    "static/js/2.8f66322b.chunk.js": "/https//xhreethapa.github.io/eliteclean/static/js/2.8f66322b.chunk.js",
+    "static/js/2.8f66322b.chunk.js.map": "/https//xhreethapa.github.io/eliteclean/static/js/2.8f66322b.chunk.js.map",
+    "static/js/3.f3b7da10.chunk.js": "/https//xhreethapa.github.io/eliteclean/static/js/3.f3b7da10.chunk.js",
+    "static/js/3.f3b7da10.chunk.js.map": "/https//xhreethapa.github.io/eliteclean/static/js/3.f3b7da10.chunk.js.map",
+    "index.html": "/https//xhreethapa.github.io/eliteclean/index.html",
+    "static/css/main.a8186717.chunk.css.map": "/https//xhreethapa.github.io/eliteclean/static/css/main.a8186717.chunk.css.map",
+    "static/js/2.8f66322b.chunk.js.LICENSE.txt": "/https//xhreethapa.github.io/eliteclean/static/js/2.8f66322b.chunk.js.LICENSE.txt",
+    "static/media/call-center.a6c673de.png": "/https//xhreethapa.github.io/eliteclean/static/media/call-center.a6c673de.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2c71abcd.js",
+    "static/js/2.8f66322b.chunk.js",
+    "static/css/main.a8186717.chunk.css",
+    "static/js/main.ba76f7de.chunk.js"
+  ]
+}
