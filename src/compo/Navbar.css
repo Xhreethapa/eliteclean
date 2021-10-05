@@ -1,0 +1,40 @@
+.navbar{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    height:70px;
+    padding-top: 20px;
+    background-color: #FFFFFF;
+    font-weight: bold;
+    color:#032B57;
+}
+.nav__link{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.nav__contact{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.nav__link > div {
+   margin:0px 8px;
+   min-width: 100px;
+}
+.nav__contact > div {
+    margin: 0px 8px;
+}
+.req__button{
+    color:white;
+    border: none;
+    padding:10px 30px;
+    height:fit-content;
+    border-radius: 8px;
+    background-color: #2784FB;
+}
+.logo{
+    max-width: 150px;
+    display: flex;
+    align-items: center;
+}

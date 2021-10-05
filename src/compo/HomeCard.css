@@ -1,0 +1,45 @@
+.homecard{
+  
+    z-index: 50;
+   margin-top: -100px;
+   border:none;
+   padding:50px;
+    display: flex;
+    
+}
+.homecard__one{
+    margin-left: 60px;
+    border:none;
+    border-radius: 6px 2px 6px 2px;
+    background-color: #2784FB;
+    height: 150px;
+    width:290px;
+    color:white;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+    padding:0px 20px;
+
+
+}
+
+.homecard__two{
+    display: flex;
+    justify-content: space-evenly;
+    margin-left: 40px;
+    padding:0px 20px;
+    border:none;
+    border-radius: 6px 3px 6px 3px;
+    background-color: #FFFFFF;
+    box-shadow: 0px 0px 3px 0px black;
+    width:50%;
+}
+.card__s{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding:0px 5px;
+    max-width: 200px;
+}
