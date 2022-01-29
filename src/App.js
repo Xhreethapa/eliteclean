@@ -1,19 +1,26 @@
 import './App.css';
 import Navbar from './compo/Navbar'
 import Announcement from './compo/Announcement';
-import Home from './compo/Home';
+import Mainsection from './Mainsection';
 
 
 function App() {
   return (
     <div className="App">
+
+  
       <Announcement/>
       <Navbar/>
-      <Home/>
+      <Mainsection/>
+    
+    
 
 
+
+    
     </div>
-  );
+
+     );
 }
 
 export default App;

@@ -1,0 +1,63 @@
+.announce__hour{
+    display: none;
+}
+.announce__quote{
+display: none;
+
+}
+.announce{
+    background-color:#032B57;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 45px;
+    position:'sticky';
+    top:0px;
+    width:100;
+    padding:0px 5px;
+
+}
+.announce__faq{
+    display:none;
+}
+.announce__media{
+    display:none
+}
+.announce__email{
+    display: flex;
+    align-items: center;
+
+}
+
+@media screen and (min-width: 460px) {
+    .announce{
+        display:flex;
+        justify-content:space-between;
+        padding:'0px 15px';
+        height:45px;
+     
+    }
+    .announce__faq{
+        display:flex;
+        align-items: center;
+    }
+    .announce__media{
+        display:flex;
+        align-items: center;
+    }
+    .announce__hour{
+        display: flex;
+        align-items: center;
+    }
+    .announce__quote{
+    display: flex;
+    align-items: center;
+    
+    }
+    .announce > div {
+        display: flex;
+    }
+    .announce >div > div {
+        margin:0px 5px;
+    }
+}

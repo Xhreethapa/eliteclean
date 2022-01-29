@@ -1,6 +1,51 @@
+
 .mainimg{
+    margin-top: -87px;
     background-image: url(https://uptasker.co.za/blog/wp-content/uploads/2018/12/5-things-a-cleaning-service-saves-you-in.jpg);
-    height: 500px;
+    height: 450px;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    color:#032B57;
+   
+
+}
+
+.opacity{
+    border:none;
+    margin-top: -87px;
+    height: 450px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+    padding:35px 20px;
+    background-image: linear-gradient(to right, white, whitesmoke, transparent);
+
+
+
+}
+
+.getquote{
+    color:gray;
+    border: none;
+    padding:10px 30px;
+    height:fit-content;
+    border-radius: 8px;
+    background-color:#032B57 ;
+    margin-top: 20px;
+}
+
+.mainimg > div {
+    margin:8px 0px ;
+}
+
+
+@media screen and (min-width: 460px) {
+
+
+
+.mainimg{
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -20,4 +65,8 @@
 }
 .mainimg > div {
     margin:8px 0px ;
+}
+
+
+
 }

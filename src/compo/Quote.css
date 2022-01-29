@@ -1,0 +1,87 @@
+
+
+.quote__container{
+    display: flex;
+    flex-direction: column;
+    background-color: #2784FB;
+    padding:10px 5px;
+
+}
+
+
+.Quotation{
+        
+    background-color: #FFFFFF;
+    border-radius: 10px;
+}
+.next__button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 6px;
+    padding:10px 40px;
+    background-color:#063565;
+    color:white;
+    margin:10px 0px;
+}
+
+
+
+
+
+
+@media screen and (min-width: 460px) {
+
+    .quote__container{
+        display: flex;
+        flex-direction:column;
+        align-items: center;
+        border:none;
+        border-radius: 10px;
+        margin:10px 10px;
+        padding:10px 5px;
+        height: 700px;
+        background-color: #2784FB;
+    }
+    .Quotation{
+        
+        background-color: #FFFFFF;
+        height:auto;
+        border-radius: 9px;
+        width: auto;
+        
+    }
+    .next__button{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        border-radius: 6px;
+        padding:10px 40px;
+        margin-top:30px;
+        background-color:#063565;
+        color:white;
+    }
+    .labels{
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+        margin:15px 5px;
+        border-radius: 5px;
+        background-color: #dfdfdf;
+    }
+    .inputs{
+        border:none;
+        background-color: #dfdfdf;
+    
+    }
+    .button__coll{
+        display: flex;
+        justify-content: space-evenly;
+        align-items: center;
+        margin-top: 30px;
+    }
+
+
+}
+
+

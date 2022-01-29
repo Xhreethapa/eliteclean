@@ -1,0 +1,33 @@
+.inputfields{
+    display:flex;
+    border:none;
+    background-color:#bbc2ca;
+    border-radius:7px;
+
+
+    
+}
+
+
+
+
+
+
+
+
+@media screen and (min-width: 460px) {
+
+
+ .inputfields{
+    display:wrap;
+    flex-wrap: wrap;
+    align-items:center;
+    justify-content:space-between;
+    border:none;
+    width:150px;
+    background-color:#bbc2ca;
+    border-radius:7px;
+    padding:0px 10px
+ }
+    
+}
