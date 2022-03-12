@@ -10,7 +10,7 @@ function App() {
 
   dfdfdffddfdf
   dfdfdffddfdfdf
-Test Test
+Test Test Test
   df
       <Announcement/>
       <Navbar/>
